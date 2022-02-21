@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 export default function Box(props) {
-  const styles = { backgroundColor: props.on ? '#222222' : 'transparent' }
+  const styles = { backgroundColor: props.on ? '#3399ff' : 'transparent' }
 
   return (
     <div
